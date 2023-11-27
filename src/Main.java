@@ -20,7 +20,7 @@ public class Main {
         System.out.println(stringa + numero);
 
         //3 parte
-        String[] arrayDiStringhe = {"gatto", "topo", "cane", "elefante", "coniglio"};
+        //String[] arrayDiStringhe = {"gatto", "topo", "cane", "elefante", "coniglio"};
 
         //ESERCIZIO 2
         Scanner scannerString = new Scanner(System.in);
@@ -56,6 +56,6 @@ public class Main {
             System.out.println("Il numero è dispari");
 
         //3 parte
-        
+
     }
 }
